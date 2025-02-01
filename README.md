@@ -47,12 +47,6 @@ cd Login-Registration-JSP
    http://localhost:8080/Login-Registration-JSP/login.jsp
    ```
 
-## 🖥️ Screenshots
-🔹 *Login Page*  
-🔹 *Registration Page*  
-🔹 *User Dashboard*  
-
-
 ## 🎯 Future Enhancements
 - Add **email verification** during registration.
 - Implement **password reset functionality**.
@@ -66,6 +60,6 @@ Feel free to **fork**, **star**, and **contribute** to this project. Pull reques
 This project is **open-source** and available under the **MIT License**.
 
 ## 📩 Contact
-- **GitHub:** [your-username](https://github.com/sonalijadhav8140)
+- **GitHub:** [sonalijadhav8140](https://github.com/sonalijadhav8140)
 - **Email:** sonalijadhav6572@gmail.com
 
